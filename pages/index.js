@@ -89,7 +89,7 @@ bananas out known to man." key="twdesc" />
                 </div>
                 
                 <div id="gallery" className="   mx-6 py-6">
-                    <h2 className="text-blau Poppitandfinchsans text-7xl text-center">SIGNATURE SERIES GALLERY</h2>
+                    <h2 className="text-blau Poppitandfinchsans text-7xl text-center">MISHKA SERIES GALLERY</h2>
                   <div className="flex flex-wrap  items-center mx-6   py-6 ">
                     <div className="md:w-1/2">
                       <div className=" border-blue-300 p-2"><img src="images/gallery1.jpeg" alt="" width="600px" className="feature-image"/></div>
@@ -97,7 +97,7 @@ bananas out known to man." key="twdesc" />
                     </div>
                     <div className="md:w-1/2 flex flex-wrap">
                       <div className=" p-2 w-1/2"><img src="images/gallery2.jpeg" alt="" width="400px" className="feature-image"/></div>
-                      <div className=" p-2 w-1/2"><img src="images/gallery3.jpeg" alt="" width="400px" className="feature-image"/></div>
+                      <div className=" p-2 w-1/2"><img src="images/gallery3.jpeg" alt="" width="500px" className="feature-image"/></div>
                       <div className=" p-2 w-1/2"><img src="images/gallery4.jpeg" alt="" width="400px" className="feature-image"/></div>
                       <div className=" p-2 w-1/2"><img src="images/gallery5.jpeg" alt="" width="400px" className="feature-image"/></div>
 
