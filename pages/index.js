@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div id="bodyy" className="flex flex-col items-center justify-center min-h-screen py-2">
       <Head>
-        <title>Boring Bananas Company</title>
+        <title>THE MISHKAVERSE</title>
         <link rel="icon" href="/images/favicon.jpg" />
 
         <meta property="og:title" content="Boring Bananas Co." key="ogtitle" />
@@ -111,7 +111,7 @@ bananas out known to man." key="twdesc" />
               <p className="text-xl text-white text-center my-6  montserrat"> Simple. To be the largest contributor to charity in the NFT space, as measured by % <span className="font-bold"> of primary sales. </span>  
               </p>
               <h2 className="text-7xl text-center Poppitandfinchsans text-blau my-4">HOW WE'RE GIVING BACK</h2>
-              <p className="text-xl text-white my-6  montserrat">Ever since the inception of the <span className="text-5xl Poppitandfinch ">boring</span> <span className="text-blau text-5xl Poppitandfinchsans">Bananas</span> <span className="text-5xl Poppitandfinch">company</span> after <a target="_blank" href="https://twitter.com/MishkaNYC" className="underline text-black font-bold">this tweet</a>, our goal has been to <span className="text-blau text-5xl Poppitandfinchsans">GIVE BACK</span> as much as possible.
+              <p className="text-xl text-white my-6  montserrat">Ever since the inception of the <span className="text-5xl Poppitandfinch ">boring</span> <span className="text-blau text-5xl Poppitandfinchsans">Bananas</span> <span className="text-5xl Poppitandfinch">company</span> after <a target="_blank" href="https://twitter.com/thedigitalvee/status/1405896585142280192" className="underline text-black font-bold">this tweet</a>, our goal has been to <span className="text-blau text-5xl Poppitandfinchsans">GIVE BACK</span> as much as possible.
               </p>
               <p className="text-xl text-white my-6  montserrat"> A minimum of 
               <span className="font-bold"> 25% of all sales</span> are donated to charity. 
