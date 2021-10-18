@@ -13,8 +13,8 @@ font-style: normal;
 font-display: swap;
 }
 @font-face {
-font-family: 'Montserrat-Light';
-src: url('../fonts/Montserrat-Light.ttf') format('truetype');
+font-family: 'Helvetica';
+src: url('../fonts/Helvetica.ttc') format('truetype');
 font-weight: 300;
 font-style: regular;
 font-display: swap;
