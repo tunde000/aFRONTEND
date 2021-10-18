@@ -1,13 +1,13 @@
 @font-face {
-font-family: 'Poppitandfinch';
-src: url('../fonts/PoppitAndFinch.otf') format('opentype');
+font-family: 'Futura';
+src: url('../fonts/Futura.ttc') format('opentype');
 font-weight: 400;
 font-style: normal;
 font-display: swap;
 }
 @font-face {
-font-family: 'Poppitandfinchsans';
-src: url('../fonts/PoppitAndFinchSans.otf') format('opentype');
+font-family: 'Futura';
+src: url('../fonts/Futura.ttc') format('opentype');
 font-weight: 400;
 font-style: normal;
 font-display: swap;
@@ -29,15 +29,15 @@ font-display: swap;
     background-attachment: fixed;
 }
 
-.montserrat {
-    font-family: Montserrat-Light, sans-serif;
+.Helvetica {
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
 }
-.Poppitandfinch {
-    font-family: Poppitandfinch, sans-serif;
+.Futura {
+    font-family: Futura, sans-serif;
 }
   
-.Poppitandfinchsans {
-    font-family: Poppitandfinchsans, sans-serif;
+.Futura {
+    font-family: Futura, sans-serif;
 }
 
 .text-blau {
